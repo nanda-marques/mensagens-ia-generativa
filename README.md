@@ -16,19 +16,6 @@ O sistema realiza as seguintes etapas:
 
 ---
 
-## Estrutura do Projeto
-
-```
-sistema-bancario-python/
-│
-├── api.py              # API REST com FastAPI
-├── pandas.ipynb        # Notebook com geração de dados, consumo da API e IA
-├── data.csv            # Base de dados dos clientes
-└── README.md
-```
-
----
-
 ## Bibliotecas Utilizadas
 
 Instale todas as dependências com:
